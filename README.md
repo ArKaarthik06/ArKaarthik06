@@ -10,17 +10,17 @@ Building scalable software and AI-driven solutions.
 
 # 🛠️ Projects
 
-### 🌍 Wanderlust - Full stack travel booking platform.
+- 🌍 Wanderlust - Full stack travel booking platform.
 
-### 🎟️ Event Registration Platform - Role-based college event management system with admin analytics and AI-driven-Insights
+- 🎟️ Event Registration Platform - Role-based college event management system with admin analytics and AI-driven-Insights
 
-### 🩺 Diabetes Prediction - ML model for diabetes risk prediction.
+- 🩺 Diabetes Prediction - ML model for diabetes risk prediction.
 
-### 📈 SCF Risk Prediction - Predictive analytics for financial risk analysis.
+- 📈 SCF Risk Prediction - Predictive analytics for financial risk analysis.
 
-### 🧬 Microbe–Disease Prediction - ML-based bioinformatics prediction system.
+- 🧬 Microbe–Disease Prediction - ML-based bioinformatics prediction system.
 
-### ☀️ Solar Energy Output Prediction - Solar power forecasting using ML models.
+- ☀️ Solar Energy Output Prediction - Solar power forecasting using ML models.
 
 ---
 
