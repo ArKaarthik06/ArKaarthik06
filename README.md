@@ -33,12 +33,4 @@ Building scalable software and AI-driven solutions.
 
 ---
 
-# 🎯 Goals
-
-- Build production-ready applications  
-- Improve problem-solving & system design
-- Contribute to open source and build impactful solutions
-  
----
-
 > ⚡ “Consistency compounds into greatness.”
