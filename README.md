@@ -1,58 +1,44 @@
 # 🚀 CSE (AI) Student | Full Stack Developer | AI/ML Enthusiast
 
-Passionate about building impactful software and solving real-world problems through code.
-Currently focused on:
+Building scalable software and AI-driven solutions.
 
-* 💻 MERN Stack Development
-* 🤖 AI/ML & Deep Learning
-* ⚡ Backend Engineering & System Design
+- 💻 MERN Stack Development  
+- 🤖 AI/ML & Deep Learning  
+- ⚡ Backend Engineering & System Design  
 
 ---
 
 # 🛠️ Projects
 
-### 🌍 Wanderlust
+### 🌍 Wanderlust - Full stack travel booking platform.
 
-Airbnb-inspired full stack travel platform with authentication, image uploads, and booking features.
+### 🎟️ Event Registration Platform - Role-based college event management system with admin analytics and AI-driven-Insights
 
-### 🎟️ Event Registration Platform
+### 🩺 Diabetes Prediction - ML model for diabetes risk prediction.
 
-Secure role-based college event management and registration system.
+### 📈 SCF Risk Prediction - Predictive analytics for financial risk analysis.
 
-### 🩺 Diabetes Prediction System
+### 🧬 Microbe–Disease Prediction - ML-based bioinformatics prediction system.
 
-Machine learning model trained on public healthcare datasets for early diabetes risk prediction.
-
-### 📈 SCF Risk Prediction
-
-Predictive analytics model for identifying financial and credit-related risk patterns.
-
-### 🧬 Microbe–Disease Association Prediction
-
-Bioinformatics and machine learning project for predicting relationships between microbes and diseases.
-
-### ☀️ Solar Energy Output Prediction
-
-Machine learning model for forecasting solar power generation using environmental and weather-related data.
+### ☀️ Solar Energy Output Prediction - Solar power forecasting using ML models.
 
 ---
 
 # 📚 Currently Learning
 
-* Backend Development
-* SQL & Data Engineering
-* RAG & LLM Applications
-* Deployment & Scalable Architectures
-* AI Integration in Full Stack Applications
+- Advanced Backend Development  
+- SQL & Data Engineering  
+- RAG & LLM Applications  
+- Scalable System Design  
 
 ---
 
 # 🎯 Goals
 
-* Build scalable production-ready applications
-* Contribute to impactful open-source projects
-* Strengthen problem-solving and system design skills
-
+- Build production-ready applications  
+- Improve problem-solving & system design
+- Contribute to open source and build impactful solutions
+  
 ---
 
-> “Consistency compounds into greatness.”
+> ⚡ “Consistency compounds into greatness.”
